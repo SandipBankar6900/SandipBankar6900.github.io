@@ -14,10 +14,10 @@ window.onscroll = () => {
 };
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1t5zLvSfceYjmEuBUvx7bPGr8OeOrH_-2/view?usp=sharing", "_blank");
+  window.open("https://drive.google.com/file/d/1pITs5IiWpYEEwKcz20XykAUC8rs-i3zV/view?usp=sharing", "_blank");
 });
 
 document.getElementById('resume-button-2').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1t5zLvSfceYjmEuBUvx7bPGr8OeOrH_-2/view?usp=sharing", "_blank");
+  window.open("https://drive.google.com/file/d/1pITs5IiWpYEEwKcz20XykAUC8rs-i3zV/view?usp=sharing", "_blank");
 });
 
